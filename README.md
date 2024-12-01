@@ -14,6 +14,8 @@ I'm a passionate **Software Engineering student** at IST, an aspiring **entrepre
 - **LinkedIn:** [Tomás Antunes](https://linkedin.com/in/tomasantunes)  
 - **Email:** tomas.antunes@gmail.com
 
+<img src="https://i.imgflip.com/9bdioy.gif" width="300">
+
   <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img src="https://media.giphy.com/media/3oz8xQmZ2KMD3qBKqA/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/3oz8xQmZ2KMD3qBKqA/giphy.gif" width="300">

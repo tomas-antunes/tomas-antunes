@@ -13,4 +13,3 @@ I'm a passionate **Software Engineering student** at IST, an aspiring **entrepre
 
 - **LinkedIn:** [Tomás Antunes](https://linkedin.com/in/tomasantunes)  
 - **Email:** tomas.antunes@gmail.com  
-- **Allym:** [Allym.pt](Allym.pt)  

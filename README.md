@@ -18,4 +18,3 @@ I'm a passionate **Software Engineering student** at IST, an aspiring **entrepre
 
   <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img src="https://media.giphy.com/media/3oz8xQmZ2KMD3qBKqA/giphy.gif" width="300">

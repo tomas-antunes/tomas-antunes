@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/3oz8xQmZ2KMD3qBKqA/giphy.gif" width="420">
+
 # 👋 Hi there, I'm Tomás Antunes!
 
 I'm a passionate **Software Engineering student** at IST, an aspiring **entrepreneur**, and an experienced **event organizer**. From managing large-scale events to developing innovative software solutions, I thrive at the intersection of creativity, technology, and teamwork.
@@ -12,4 +14,8 @@ I'm a passionate **Software Engineering student** at IST, an aspiring **entrepre
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Tomás Antunes](https://linkedin.com/in/tomasantunes)  
-- **Email:** tomas.antunes@gmail.com  
+- **Email:** tomas.antunes@gmail.com
+
+  <!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+

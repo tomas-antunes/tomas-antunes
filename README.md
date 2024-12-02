@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-- 🤝 **Entrepreneurship:** Currently focused on **Allym**, a platform that makes discovering, booking, and experiencing events seamless. I still enjoy dedicating time to brainstorming innovative and impactful ideas for startups and society.
+- 🤝 **Entrepreneurship:** Currently focused on **Allym.pt**, a platform that makes discovering, booking, and experiencing events seamless. I still enjoy dedicating time to brainstorming innovative and impactful ideas for startups and society.
 - 🖥️ **Programming & Development:** Crafting innovative software solutions for startups and personal projects, always aiming for quality and creativity.
 - 🎉 **Event Management:** Experienced in organizing events for thousands of participants, with a strong background in the academic sector.
 - 📚 **Used Book Reseller:** Passionate about giving pre-loved books a second life by connecting them with new owners.

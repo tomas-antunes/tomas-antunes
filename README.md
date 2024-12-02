@@ -9,7 +9,9 @@
 - 🌍 **Volunteering:** Dedicated to using my skills for meaningful causes. Currently focused on revitalizing a small local soccer club in Cacém, Portugal.
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomas.antunes@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasantunes) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/antunestomas) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomas.antunes@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasantunes) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/antunestomas) [![Allym](https://img.shields.io/badge/Allym-D5006D?style=for-the-badge&logoColor=white)](https://allym.pt) [![Vinted](https://img.shields.io/badge/Vinted-4CAF50?style=for-the-badge&logoColor=white)](https://www.vinted.pt/member/69876706)
+
+
 
 <img src="https://i.imgflip.com/9bdioy.gif" width="300">
   <!-- HTML -->
